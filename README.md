@@ -2,6 +2,8 @@
 
 A Dash-based web application for visualizing stock market data with interactive candlestick charts and various technical indicators such as EMA, MA, Bollinger Bands, RSI, MACD. The app allows users to customize the indicators and visualize stock data over a specified date range.
 
+![Ekran görüntüsü 2024-11-30 223225](https://github.com/user-attachments/assets/a5ab416f-6760-4af3-a36f-547f9b073564)
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
